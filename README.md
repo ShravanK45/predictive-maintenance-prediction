@@ -138,12 +138,7 @@ The trained LightGBM model was deployed using **Streamlit Community Cloud**.
 
 ## 📸 Application Preview
 
-_Add screenshots here_
-
-Example:
-
 - Home Page
-- Prediction Result
 - SHAP Summary Plot
 
 ---
@@ -185,7 +180,7 @@ PredictiveMaintenance/
 Clone the repository
 
 ```bash
-git clone https://github.com/ShravanK45/predictive-maintenance-ml.git
+git clone https://github.com/ShravanK45/predictive-maintenance-prediction.git
 ```
 
 Navigate into the project
