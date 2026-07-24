@@ -132,7 +132,7 @@ The trained LightGBM model was deployed using **Streamlit Community Cloud**.
 
 ### Live Demo
 
-👉 [**https://YOUR-STREAMLIT-LINK**](https://predictive-maintenance-prediction-2ngwjxoddeqvuiqvgkbk5u.streamlit.app/)
+👉 [**STREAMLIT APP**](https://predictive-maintenance-prediction-2ngwjxoddeqvuiqvgkbk5u.streamlit.app/)
 
 ---
 
