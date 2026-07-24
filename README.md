@@ -138,8 +138,18 @@ The trained LightGBM model was deployed using **Streamlit Community Cloud**.
 
 ## 📸 Application Preview
 
-- Home Page
-- SHAP Summary Plot
+## Streamlit Application
+
+![App Home](images/app_home.png)
+## Prediction Example
+
+![Prediction](images/prediction.png)
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+## SHAP Explainability
+
+![SHAP Summary](images/shap_summary.png)
 
 ---
 
