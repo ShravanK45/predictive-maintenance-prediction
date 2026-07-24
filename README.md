@@ -132,7 +132,7 @@ The trained LightGBM model was deployed using **Streamlit Community Cloud**.
 
 ### Live Demo
 
-👉 **https://YOUR-STREAMLIT-LINK**
+👉 [**https://YOUR-STREAMLIT-LINK**](https://predictive-maintenance-prediction-2ngwjxoddeqvuiqvgkbk5u.streamlit.app/)
 
 ---
 
@@ -232,7 +232,7 @@ Aspiring AI/ML Engineer
 
 🔗 GitHub: https://github.com/ShravanK45
 
-🔗 LinkedIn: *(Add your LinkedIn profile here)*
+🔗 LinkedIn: www.linkedin.com/in/shravan-kundap-803a97292
 
 ---
 
